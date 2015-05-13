@@ -1,5 +1,4 @@
 (ns vw.core
-  (:require [net.n01se.clojure-jna :as jna])
   (:import
    (com.sun.jna Native Function NativeLibrary)
    (org.bridj Pointer BridJ)
